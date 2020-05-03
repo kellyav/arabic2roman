@@ -1,0 +1,22 @@
+{
+  "name": "arabic2roman",
+  "version": "1.0.0",
+  "description": "A JavaScript program to convert Arabic numerals to Roman with TDD and Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyav/arabic2roman.git"
+  },
+  "author": "Alexa Kelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kellyav/arabic2roman/issues"
+  },
+  "homepage": "https://github.com/kellyav/arabic2roman#readme",
+  "devDependencies": {
+    "jest": "^25.5.4"
+  }
+}
