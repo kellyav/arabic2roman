@@ -5,11 +5,10 @@ A program to convert arabic numbers to roman numerals in:
 
 
 Note that:
-
 Roman numeral conversion:
 
 1  => I
 
-10  => X
+10 => X
 
- 7  => VII
+7  => VII
