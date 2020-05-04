@@ -4,7 +4,8 @@
   "description": "A JavaScript program to convert Arabic numerals to Roman with TDD and Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch"
   },
   "repository": {
     "type": "git",
