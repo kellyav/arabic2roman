@@ -4,9 +4,8 @@ A program to convert arabic numbers to roman numerals in:
 - Javascript using Jest and TDD.
 
 
-Note that:
-Roman numeral conversion:
-
+### Note that:
+Roman numeral conversion is as follows:
 1  => I
 
 10 => X
